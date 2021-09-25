@@ -42,12 +42,82 @@ function Home() {
                 rightBtnText = "Existing Inventory"
             />            
             <Section
-            title = "Model Tt"
-            description = "Order Online for Touchless delivery" 
-            backgroundImg = "model-s.jpg"
-            leftBtnText = "Custom Order"
-            rightBtnText = "Existing Inventory"
-            />            
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
+            <Section
+                title = "Model Tt"
+                description = "Order Online for Touchless delivery" 
+                backgroundImg = "model-s.jpg"
+                leftBtnText = "Custom Order"
+                rightBtnText = "Existing Inventory"
+            />
             <Section
                 title = "Model Tt"
                 description = "Order Online for Touchless delivery" 
