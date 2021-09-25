@@ -10,6 +10,9 @@ function Section({ title, description, leftBtnText, rightBtnText, backgroundImg 
             </ItemText>
             <Buttons>
                 <ButtonGroup>
+                <LeftButton>
+                        { leftBtnText }
+                    </LeftButton>
                     <LeftButton>
                         { leftBtnText }
                     </LeftButton>
